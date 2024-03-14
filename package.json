@@ -1,0 +1,16 @@
+{
+  "name": "@brass-software/components",
+  "version": "0.0.1",
+  "description": "React components for Brass apps.",
+  "main": "src/index.ts",
+  "scripts": {},
+  "author": "Michael Edward Rybka",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "@types/react": "^18.2.58",
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}
